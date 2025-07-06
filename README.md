@@ -21,3 +21,4 @@ with crypto chess gains access to:
 - **crowdsourced governance**: instead of a single entity controlling the game, players can actually be in control of the game
 - **one system, one rank**: no more what’s your lichess rating vs fide rating vs chess.com rating. it becomes interoperable.
 - **anti-cheat**: blockchain has since the beginning been working towards creating sybil-resistant systems and true trustless systems. you don't need to trust the other party, just trust the system.
+- **distributed game system**: anyone can run a node to request an analysis, help with running servers, etc..
